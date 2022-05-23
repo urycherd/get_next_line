@@ -1,5 +1,7 @@
 # get_next_line
 
+This project intends to mimic the functionality of getline, which reads the line from a source then outputs it. 
+
 <table>
 <tr>
     <td>Function name</td>
