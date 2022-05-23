@@ -1,6 +1,6 @@
 # get_next_line
 
-<code>Item      | Quantity
+<code> Function name | get_next_line
 :-------- | -------:
 Function name  | get_next_line
 Prototype     | char *get_next_line(int fd);
